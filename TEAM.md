@@ -1,14 +1,9 @@
-## Founder
-
-Name: [name]
-Role: [role]
-
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+# The Team
+  - Michael - Teamleader
+  - Paul - Tech Lead
+  - Oliver - Blockchain Dev
+  - Hiro - Frontend Dev
+  - Pattrick - Android Dev
+  - Thomas - Designer
+  - Tracy - BA
+  - Lol - iOS dev
